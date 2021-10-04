@@ -1,13 +1,14 @@
-<img width="400px;" align="right" src="https://i.makeagif.com/media/7-23-2017/OhcK0Y.gif" alt="cena-deathNote"/>
+<img width="500px;" align="right" src="https://i.makeagif.com/media/7-23-2017/OhcK0Y.gif" alt="cena-deathNote"/>
 
-## Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="acenando" width="30px;"/> Welcome to my profile
+<h1 align="center"> Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="acenando" width="35px;"/> </br> Welcome to My Profile </h1>
 
 - 👩‍🎓 **Formação:** Técnica em Informática;
 - 🔭 **Trabalhando:** Desenvolvedora Front-end;
-- 🌱 **Aprendendo:** Flutter;
+- 🌱 **Aprendendo:** JavaScript;
+
+  * > <i>Toda conquista começa com a decisão de tentar...</i>
 - 🙋‍♀️ **Redes Sociais:** [Instagram](https://www.instagram.com/dev_girll/)
   
-  * > <i>Toda conquista começa com a decisão de tentar...</i>
 ---
 <div>
   <a href="https://github.com/thascript">
