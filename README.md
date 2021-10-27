@@ -1,7 +1,7 @@
 <h1 align="center"> Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="acenando" width="35px;"/> Welcome to My Profile </h1>
 </br>
 
-<img align="right" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" alt="programando"/>
+<img width="400" align="right" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" alt="programando"/>
 
 - 👩‍🎓 **Formação:** Graduanda em Ciencia da Computaçao;
 - 🔭 **Trabalhando:** Desenvolvedora Front-end;
