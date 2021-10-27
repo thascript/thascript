@@ -1,8 +1,7 @@
 <h1 align="center"> Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="acenando" width="35px;"/> Welcome to My Profile </h1>
+</br>
 
-<img width="400px;" height="250px;" align="right" src="https://i.makeagif.com/media/7-23-2017/OhcK0Y.gif" alt="cena-deathNote"/>
-
-
+<img align="right" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" alt="programando"/>
 
 - 👩‍🎓 **Formação:** Graduanda em Ciencia da Computaçao;
 - 🔭 **Trabalhando:** Desenvolvedora Front-end;
@@ -11,8 +10,7 @@
   * > <i>Toda conquista começa com a decisão de tentar...</i>
 - 🙋‍♀️ **Redes Sociais:** [Instagram](https://www.instagram.com/dev_girll/)
   
-  </br>
-  </br>
+  </br> </br>
   
 ---
 <div>
@@ -23,6 +21,7 @@
 </div> 
  
 <!--
+<img width="400px;" height="250px;" align="right" src="https://i.makeagif.com/media/7-23-2017/OhcK0Y.gif" alt="cena-deathNote"/>
 **thascript/thascript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
