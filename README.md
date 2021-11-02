@@ -2,6 +2,8 @@
 <p align="center">
   <img width="700px;" src="https://i.pinimg.com/originals/cf/95/9d/cf959d86c0f499c31a8e31238b7cb576.gif" alt="gif-menina"/>
 </p>
+
+---
   
 ### 🚀 Sobre Mim...
 - 📚 Graduanda em Ciência da Computação?;
@@ -14,7 +16,7 @@
 ---
 
 <a href="https://github.com/thascript" align="center">
-  <img width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thascript&layout=compact&langs_count=7&theme=default"/> 
+  <img width="500em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thascript&layout=compact&langs_count=7&theme=default"/> 
 </a> 
 
 ### Contato: 
