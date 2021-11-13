@@ -1,17 +1,17 @@
-<h1 align="center"> Olá, Eu sou Thalia Oliveira 🌷 </h1>
+<h1 align="center"> Hi, I'm Thalia Oliveira 🌷 </h1>
 <p align="center">
   <img width="700px;" src="https://i.pinimg.com/originals/cf/95/9d/cf959d86c0f499c31a8e31238b7cb576.gif" alt="gif-menina"/>
 </p>
 
 ---
   
-### 🚀 Sobre Mim...
-- 📚 Graduanda em Ciência da Computação;
-- 💻 Desenvolvedora Web;
-- 🌱 Aprendendo JavaScript e Python;
-- 👯 Procurando colaborar em projetos de impacto social;
-- ❤ Animes e filmes;
-- 😄 Ela/Sua;
+### 🚀 About me...
+- 📚 Undergraduate in Computer Science;
+- 💻 Web developer;
+- 🌱 Learning JavaScript and Python;
+- 👯 Looking to collaborate on social impact projects;
+- ❤ Animes and movies;
+- 😄 Her / Yours;
 
 ---
 
