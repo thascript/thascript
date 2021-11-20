@@ -6,12 +6,12 @@
 ---
   
 ### 🚀 About me...
-- 📚 Undergraduate in Computer Science;
+- 📚 Computer science student;
 - 💻 Web developer;
-- 🌱 Learning JavaScript and Python;
+- 🌱 Learning Python and R;
 - 👯 Looking to collaborate on social impact projects;
-- ❤ Animes and movies;
-- 😄 Her / Yours;
+- ❤ Watching Animes and movies;
+- 😄 She | Her
 
 ---
 
