@@ -6,8 +6,8 @@
 ---
   
 ### 🚀 About me...
-- 📚 Computer science student;
-- 💻 Web developer;
+- 📚 Notion of web development;
+- 💻 Backend development enthusiast;
 - 🌱 Learning Python and R;
 - 👯 Looking to collaborate on social impact projects;
 - ❤ Watching Animes and movies;
